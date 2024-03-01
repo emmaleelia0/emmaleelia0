@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @emmaleelia0
-- 🌱 I’m currently learning bechelor of computer Science in RMIT
-- 📫 How to reach me: s3950378@student.rmit.edu.au
+- 🌱 I’m currently last year Computer Science student in RMIT.
+- 🌟 I am interesting in Data Science, Machine Learning, Quality Assurance, Full-stack Developement
+- 📫 How to reach me: liaoemmalee@gmail.com
 
 <!---
 emmaleelia0/emmaleelia0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
